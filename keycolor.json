@@ -1,16 +1,9 @@
-
--- [[ Protected by Sinklyy ]]
-local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; 
-local _0xCDA357a6CCE7 = {112,1,43,43,41,88,66,69,64,71,82,82,84,88,79,74,57,88,81,50,58,77,51,58,81,81,58,57,56,70,73,41,49,43,112,1,43,43,43,43,41,94,120,110,121,41,49,43,41,88,98,101,96,103,114,114,41,39,1,43,43,43,43,41,89,100,103,110,41,49,43,41,79,110,125,110,103,100,123,110,121,41,39,1,43,43,43,43,41,78,115,123,98,121,110,120,41,49,43,41,57,59,57,61,38,58,57,38,56,58,41,39,1,43,43,43,43,41,88,127,106,127,126,120,41,49,43,41,106,104,127,98,125,110,41,39,1,43,43,43,43,41,66,91,41,49,43,41,41,1,43,43,118,1,118}
-local _0xe8498a7eEf8C = 11
-local _0xd17a9C3E9e67 = function(d, k)
-    local _0x94fbBc6c30D2 = ""
-    for i = 1, #d do
-        _0x94fbBc6c30D2 = _0x94fbBc6c30D2 .. string.char(bit32.bxor(d[i], k))
-    end
-    return _0x94fbBc6c30D2
-end
-local _0xcd2eeBdBF3dE = "YoSHxKSqZRHquJUyFNwJneHnrwAqEpdUagJqGMXjwmobztYFHi"
-local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; local _0xa3E5fa2eeaD9 = 1882; 
-local _exec = loadstring(_0xd17a9C3E9e67(_0xCDA357a6CCE7, _0xe8498a7eEf8C))
-if _exec then _exec() end
+{
+  "SINKLYY_SDA2SZ91F81ZZ123MB": {
+    "User": "Sinklyy",
+    "Role": "Developer",
+    "Expires": "2026-12-31",
+    "Status": "active",
+    "IP": ""
+  }
+}
